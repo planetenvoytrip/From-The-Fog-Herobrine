@@ -1,21 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=74&pause=240&color=00CED1&center=true&vCenter=true&width=1580&lines=FROM+THE+FOG+2026;HE+SEES+YOU;FORGE+•+NEOFORGE+•+FABRIC" alt="From The Fog 2026" />
-</div>
 
-<br/>
-
-<div align="center">
-  <div style="display:flex;justify-content:center;gap:26px;flex-wrap:wrap;">
-    <img src="https://img.shields.io/badge/Status-ACTIVE-00C853?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Version-2026-00CED1?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Platform-PC_|_Mac_|_Linux-FF5722?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Minecraft-1.18_--_1.21.10-62B47A?style=for-the-badge&logo=minecraft&logoColor=white">
-    <img src="https://img.shields.io/badge/File-.jar-2196F3?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Loader-Forge_|_NeoForge_|_Fabric-FF9800?style=for-the-badge">
-  </div>
-</div>
-
-<br/>
 
 # 👁️ From The Fog — The Herobrine Horror Experience for Minecraft 1.18+
 
